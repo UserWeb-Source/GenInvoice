@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import 'primereact/resources/themes/lara-dark-indigo/theme.css';
+@import 'primereact/resources/themes/saga-blue/theme.css';
+@import 'primereact/resources/themes/vela-green/theme.css';
+@import 'primereact/resources/themes/bootstrap4-light-blue/theme.css';
+
+*{
+    outline: none;
+}
+
+body{
+    font-family: 'Ambit', sans-serif;
+}
